@@ -1,7 +1,7 @@
 # Professional README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-I am creating an App to generate a README file.
+I am creating an app to generate a README file.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -15,11 +15,11 @@ To install dependencies, run the following:
 npm i
 `
 ## Usage
-
+nothing
 ## License
  MIT
 ## Contributing
-Myself
+Teste
 ## Tests
 To run tests, run the following:
 `
