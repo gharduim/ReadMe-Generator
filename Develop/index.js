@@ -35,6 +35,7 @@ const questions = [
         name: "license",
         choices: [
             "MIT",
+            "Unlicense",
             "Apache 2.0",
             "GNU v3",
             "BSD 3-Clause",
