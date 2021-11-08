@@ -39,8 +39,10 @@ THEN I am taken to the corresponding section of the README
 
 View a complete video demonstration of the application: [Professional README Generator Demo](https://drive.google.com/file/d/1wAcySaMLWmoXP33HXYN5y4IsOgkt1SdA/view?usp=sharing)
 
+![out-readme-screen](./Develop/video/demo.gif "Output README file")
+
 ### Output Readme
-![out-readme-screen](./Develop/screenshots/Output-README.jpg "Output README file"))
+![out-readme-screen](./Develop/screenshots/Output-README.jpg "Output README file")
 
 ## Table of Contents
 
